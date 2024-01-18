@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "giJ3LjjQWjGbYkHQfB8compnqxXIN7KNSSWQaJYjkYtUtJzHUTdta4muXz0kdo/xsGtro92gUdaCYyaP/cUNkA==",
+  "dgSpecHash": "sLpMV4qEtYC9uppqe6lqvR6kzp1bgyUCJD4p9lQ835+A8jEGzWO8/Oc3gaCt5GLGgnSkpat8YyLZP7qgitQoPA==",
   "success": true,
-  "projectFilePath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\AppCrud.csproj",
+  "projectFilePath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

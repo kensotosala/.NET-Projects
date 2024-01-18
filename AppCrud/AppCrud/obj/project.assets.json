@@ -475,9 +475,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\AppCrud.csproj",
-      "projectName": "AppCrud",
-      "projectPath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\AppCrud.csproj",
+      "projectUniqueName": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
+      "projectName": "CRUD ASP.NET MVC ADO.NET",
+      "projectPath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
       "outputPath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\obj\\",
       "projectStyle": "PackageReference",
