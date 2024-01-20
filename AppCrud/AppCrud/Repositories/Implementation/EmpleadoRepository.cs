@@ -1,4 +1,5 @@
 ﻿using System.Data.SqlClient;
+using System.Reflection;
 using CRUD_ASP.NET_MVC_ADO.NET.Models;
 using CRUD_ASP.NET_MVC_ADO.NET.Repositories.Contract;
 
@@ -11,19 +12,75 @@ namespace CRUD_ASP.NET_MVC_ADO.NET.Repositories.Implementation
         {
             _cadenaSQL = configuration.GetConnectionString("cadenaSQL");
         }
-        public Task<bool> Delete(int id)
+        public async Task<bool> Delete(int id)
         {
-            throw new NotImplementedException();
+            using (var conexion = new SqlConnection(_cadenaSQL))
+            {
+                conexion.Open();
+                SqlCommand cmd = new("sp_EliminarEmpleado", conexion);
+                cmd.Parameters.AddWithValue("idEmpleado", id);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                int filas_afectadas = await cmd.ExecuteNonQueryAsync();
+
+                if (filas_afectadas > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
 
-        public Task<bool> Editar(Empleado modelo)
+        public async Task<bool> Editar(Empleado modelo)
         {
-            throw new NotImplementedException();
+            using (var conexion = new SqlConnection(_cadenaSQL))
+            {
+                conexion.Open();
+                SqlCommand cmd = new("sp_GuardarEmpleado", conexion);
+                cmd.Parameters.AddWithValue("idEmpleado", modelo.idEmpleado);
+                cmd.Parameters.AddWithValue("nombreCompleto", modelo.nombreCompleto);
+                cmd.Parameters.AddWithValue("idDepartamento", modelo.refDepartamento.idDepartamento);
+                cmd.Parameters.AddWithValue("sueldo", modelo.sueldo);
+                cmd.Parameters.AddWithValue("fechaContrato", modelo.fechaContrato);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                int filas_afectadas = await cmd.ExecuteNonQueryAsync();
+
+                if (filas_afectadas > 0)
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
         }
 
-        public Task<bool> Guardar(Empleado modelo)
+        public async Task<bool> Guardar(Empleado modelo)
         {
-            throw new NotImplementedException();
+            using (var conexion = new SqlConnection(_cadenaSQL))
+            {
+                conexion.Open();
+                SqlCommand cmd = new("sp_GuardarEmpleado", conexion);
+                cmd.Parameters.AddWithValue("nombreCompleto", modelo.nombreCompleto);
+                cmd.Parameters.AddWithValue("idDepartamento", modelo.refDepartamento.idDepartamento);
+                cmd.Parameters.AddWithValue("sueldo", modelo.sueldo);
+                cmd.Parameters.AddWithValue("fechaContrato", modelo.fechaContrato);
+                cmd.CommandType = System.Data.CommandType.StoredProcedure;
+
+                int filas_afectadas = await cmd.ExecuteNonQueryAsync();
+
+                if(filas_afectadas > 0) {
+                    return true;
+                } else
+                {
+                    return false;
+                }
+            }
         }
 
         public async Task<List<Empleado>> Lista()
