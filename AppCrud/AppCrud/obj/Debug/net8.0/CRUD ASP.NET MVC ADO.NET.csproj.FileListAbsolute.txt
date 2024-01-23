@@ -37,3 +37,42 @@ C:\Dev Projects\.NET\CRUD ASP.NET MVC ADO.NET\CRUD ASP.NET MVC ADO.NET\obj\Debug
 C:\Dev Projects\.NET\CRUD ASP.NET MVC ADO.NET\CRUD ASP.NET MVC ADO.NET\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.pdb
 C:\Dev Projects\.NET\CRUD ASP.NET MVC ADO.NET\CRUD ASP.NET MVC ADO.NET\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.genruntimeconfig.cache
 C:\Dev Projects\.NET\CRUD ASP.NET MVC ADO.NET\CRUD ASP.NET MVC ADO.NET\obj\Debug\net8.0\ref\CRUD ASP.NET MVC ADO.NET.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\appsettings.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.staticwebassets.runtime.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.exe
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.deps.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.runtimeconfig.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.pdb
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.csproj.AssemblyReference.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.AssemblyInfoInputs.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.AssemblyInfo.cs
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.csproj.CoreCompileInputs.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.RazorAssemblyInfo.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.RazorAssemblyInfo.cs
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.sourcelink.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets\msbuild.CRUD ASP.NET MVC ADO.NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.CRUD ASP.NET MVC ADO.NET.props
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CRUD ASP.NET MVC ADO.NET.props
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CRUD ASP.NET MVC ADO.NET.props
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\scopedcss\bundle\CRUD ASP.NET MVC ADO.NET.styles.css
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\scopedcss\projectbundle\CRUD ASP.NET MVC ADO.NET.bundle.scp.css
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.csproj.CopyComplete
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\refint\CRUD ASP.NET MVC ADO.NET.dll
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.pdb
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\CRUD ASP.NET MVC ADO.NET.genruntimeconfig.cache
+C:\Dev Projects\.NET-Projects\AppCrud\AppCrud\obj\Debug\net8.0\ref\CRUD ASP.NET MVC ADO.NET.dll

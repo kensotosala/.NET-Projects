@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AppCrud",
+    "\\AppCrud\\Controllers",
+    "\\AppCrud\\wwwroot",
+    "\\AppCrud\\wwwroot\\js",
+    "\\AppCrud\\wwwroot\\lib"
   ],
-  "SelectedNode": "\\CRUD ASP.NET MVC ADO.NET.sln",
+  "SelectedNode": "\\AppCrud\\wwwroot\\js\\site.js",
   "PreviewInSolutionExplorer": false
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj": {}
+    "C:\\Dev Projects\\.NET-Projects\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj": {}
   },
   "projects": {
-    "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj": {
+    "C:\\Dev Projects\\.NET-Projects\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
+        "projectUniqueName": "C:\\Dev Projects\\.NET-Projects\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
         "projectName": "CRUD ASP.NET MVC ADO.NET",
-        "projectPath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
+        "projectPath": "C:\\Dev Projects\\.NET-Projects\\AppCrud\\AppCrud\\CRUD ASP.NET MVC ADO.NET.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev Projects\\.NET\\AppCrud\\AppCrud\\obj\\",
+        "outputPath": "C:\\Dev Projects\\.NET-Projects\\AppCrud\\AppCrud\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",

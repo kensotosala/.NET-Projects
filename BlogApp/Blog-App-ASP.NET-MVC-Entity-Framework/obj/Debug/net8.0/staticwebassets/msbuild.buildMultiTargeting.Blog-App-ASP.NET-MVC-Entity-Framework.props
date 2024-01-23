@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Blog-App-ASP.NET-MVC-Entity-Framework.props" />
+</Project>
