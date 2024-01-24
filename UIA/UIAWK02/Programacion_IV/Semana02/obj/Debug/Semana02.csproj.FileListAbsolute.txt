@@ -1,0 +1,7 @@
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\bin\Debug\Semana02.exe.config
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\bin\Debug\Semana02.exe
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\bin\Debug\Semana02.pdb
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\obj\Debug\Semana02.csproj.AssemblyReference.cache
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\obj\Debug\Semana02.csproj.CoreCompileInputs.cache
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\obj\Debug\Semana02.exe
+C:\Users\1311-22.UIALABS\Downloads\UIAWK02\Programacion_IV\Semana02\obj\Debug\Semana02.pdb

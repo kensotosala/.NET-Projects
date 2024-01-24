@@ -1,0 +1,7 @@
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\bin\Debug\Lab01.exe.config
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\bin\Debug\Lab01.exe
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\bin\Debug\Lab01.pdb
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\obj\Debug\Lab01.csproj.AssemblyReference.cache
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\obj\Debug\Lab01.csproj.CoreCompileInputs.cache
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\obj\Debug\Lab01.exe
+C:\Dev Projects\.NET-Projects\UIA\Laboratorios\Lab01\Lab01\obj\Debug\Lab01.pdb
