@@ -4020,11 +4020,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev Projects\\.NET\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
+      "projectUniqueName": "C:\\Dev Projects\\.NET-Projects\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
       "projectName": "Blog-App-ASP.NET-MVC-Entity-Framework",
-      "projectPath": "C:\\Dev Projects\\.NET\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
+      "projectPath": "C:\\Dev Projects\\.NET-Projects\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev Projects\\.NET\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\obj\\",
+      "outputPath": "C:\\Dev Projects\\.NET-Projects\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config",

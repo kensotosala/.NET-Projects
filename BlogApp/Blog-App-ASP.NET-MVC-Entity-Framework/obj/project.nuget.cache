@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQla0tg+Rv9riieUrzYHrfXZ7+w7wBxBzO36JItegwij3sh00uTz5hQyrNMd4/BEmJE2vke00qm0KciG7GHjkQ==",
+  "dgSpecHash": "AlcbCbfB8XPn/YQUK29B2gfhTTFHq43Ehpz864AZElX/oDKpIgzk1lswLnXYu7+C8EY1htpZtaN5UVeEGMgt0A==",
   "success": true,
-  "projectFilePath": "C:\\Dev Projects\\.NET\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
+  "projectFilePath": "C:\\Dev Projects\\.NET-Projects\\BlogApp\\Blog-App-ASP.NET-MVC-Entity-Framework\\Blog-App-ASP.NET-MVC-Entity-Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\steve\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\steve\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

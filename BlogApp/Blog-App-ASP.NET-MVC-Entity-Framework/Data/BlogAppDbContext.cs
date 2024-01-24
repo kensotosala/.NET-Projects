@@ -13,5 +13,6 @@ namespace Blog_App_ASP.NET_MVC_Entity_Framework.Data
         // Creating a tables
         public DbSet<BlogPost> BlogPosts { get; set; }
         public DbSet<Tag> Tags { get; set; }
+
     }
 }
