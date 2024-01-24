@@ -25,3 +25,6 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
+
+// ==> https://youtu.be/jhj9ouy7x1g?t=2240
