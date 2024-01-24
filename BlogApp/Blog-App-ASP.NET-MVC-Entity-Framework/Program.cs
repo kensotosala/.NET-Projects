@@ -1,7 +1,14 @@
+using Blog_App_ASP.NET_MVC_Entity_Framework.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Inject Db Context
+builder.Services.AddDbContext<BlogAppDbContext>(options =>
+options.UseSqlServer(builder.Configuration.GetConnectionString("BlogAppConnectionString")));
 
 var app = builder.Build();
 
@@ -26,5 +33,4 @@ app.MapControllerRoute(
 
 app.Run();
 
-
-// ==> https://youtu.be/jhj9ouy7x1g?t=2240
+// ==> https://youtu.be/jhj9ouy7x1g?t=3228
