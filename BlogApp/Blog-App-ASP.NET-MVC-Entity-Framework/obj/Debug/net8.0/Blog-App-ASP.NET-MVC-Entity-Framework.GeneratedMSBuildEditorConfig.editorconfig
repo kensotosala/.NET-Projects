@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Dev Projects\.NET-Projects\BlogApp\Blog-App-ASP.NET-MVC-Entity-Framework
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Dev Projects/.NET-Projects/BlogApp/Blog-App-ASP.NET-MVC-Entity-Framework/Views/AdminTags/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5UYWdzXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Dev Projects/.NET-Projects/BlogApp/Blog-App-ASP.NET-MVC-Entity-Framework/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
